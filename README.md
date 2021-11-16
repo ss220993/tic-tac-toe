@@ -10,4 +10,4 @@ The app outputs "draw", when there is no winner, and "unfinished" if the game ha
 
 ### Running tests
 
-    ./bin/rspec
+    rspec spec/
